@@ -20,7 +20,6 @@
 
 ## 📖 Theory
 
-- [x] React vs React Native
 - [x] Expo
 - [x] Styles on React Native
 - [x] Data Fetching
