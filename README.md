@@ -10,7 +10,7 @@ https://expo.dev/@sugargw/weather-app
 
 ## 🖥 Preview
 
-<img src="previews/preview1.png" width="310"> <img src="previews/preview2.png" width="310"> <img src="previews/preview3.png" width="310">
+<img src="previews/preview1.png" width="290"> <img src="previews/preview2.png" width="290"> <img src="previews/preview3.png" width="290">
 
 ## 🔥 Stack
 
